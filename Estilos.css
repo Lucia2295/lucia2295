@@ -1,0 +1,71 @@
+* {
+    text-align: center;
+    font-family: sans-serif;
+    background-color:#7aa6a7;
+}
+
+div.detalle{
+    border:#5d8889 2px solid;
+    background-color:#e0f9f9;
+    border-radius: 10px;
+    height: 100px;
+    width: 650px;
+    margin-left: 335px;
+    line-height: 75%;
+    font-size: 16px;
+    color: #5d8889;
+}
+
+#tprincipal{
+    font-weight: bold;
+    font-size: 60px;
+    color:#e0f9f9;
+    text-shadow: #506262 0 -2px;
+}
+
+#tsecundario{
+    color:#e0f9f9;
+    font-style: italic;
+    font-size: 25px;
+}
+
+h3.titulo{
+    font-weight: bold;
+    color:#2F4F4F;
+    font-size: 25px;
+}
+
+p.descripcion{
+    font-style: oblique;
+    font-size: 15px;
+    line-height: 75%;
+    color: #2F4F4F;
+}
+
+div.detalle p{
+    background-color:#e0f9f9; 
+}
+
+img {
+    alt: Image; 
+    height: 150px;
+    width: 150px;
+}
+
+h1 img {
+    alt: Image; 
+    height: 200px;
+    width: 200px;
+}
+
+a {
+    background-color:#e0f9f9;
+    color: #2F4F4F;
+}
+
+#imagenmontania {
+    background-color:#7aa6a7;
+}
+
+
+
